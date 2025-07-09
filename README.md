@@ -77,7 +77,7 @@ Synthesis and implementation were performed successfully using *Vivado*.
 
 ## 🚀 FPGA Deployment  
 
-The processor was programmed onto an FPGA board and verified to run correctly.  
+The design was programmed onto an FPGA board and verified to run correctly.  
 
 ![FPGA Programmed](Docs/deployed_GPGA.png)  
 
